@@ -1,0 +1,71 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://img.okezone.com/okz/500/content/2019/10/02/298/2112002/cita-rasa-tiada-dua-5-kopi-indonesia-ini-telah-mendunia-wIY1b7YOHG.jpg",
+            "nama": "Kopi Robusta Lampung",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://cf.shopee.co.id/file/f49ef195f6c91e4f73a6256611868af8",
+            "nama": "Kopi Robusta Flores",
+            "size": "450 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://cdn.yummy.co.id/content-images/images/20200521/0hVDZ66FMWiT9URRDhDZN8KKbk0sh3qA-31353930303031383335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+            "nama": "Es Campur",
+            "size": "100 Gram",
+            "harga": "400.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://o-cdn-cas.sirclocdn.com/parenting/original_images/Es_Kuwut_Bali.jpg",
+            "nama": "Es Kuwut",
+            "size": "100 Gram",
+            "harga": "400.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://asset.kompas.com/crops/LgGmDBxglevUdnCm4fWkEIkVy-U=/0x0:739x493/750x500/data/photo/2020/01/29/5e3187c1ac05f.jpg",
+            "nama": "Es Kelapa",
+            "size": "100 Gram",
+            "harga": "450.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
